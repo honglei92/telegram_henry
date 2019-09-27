@@ -1,0 +1,12 @@
+Android NDK: WARNING:F:/whl/06im/telegram_henry/TMessagesProj/jni/libtgvoip/Android.mk:flac: LOCAL_LDLIBS is always ignored for static libraries    
+Android NDK: WARNING: Unsupported source file extensions in F:/whl/06im/telegram_henry/TMessagesProj/jni/libtgvoip/Android.mk for module flac    
+Android NDK:   ./exoplayer/libFLAC/windows_unicode_filenames    
+[armeabi-v7a] StaticLibrary  : libsqlite.a
+[armeabi-v7a] StaticLibrary  : liblz4.a
+[armeabi-v7a] StaticLibrary  : libtgnet.a
+[armeabi-v7a] StaticLibrary  : libcpufeatures.a
+[armeabi-v7a] StaticLibrary  : libflac.a
+[armeabi-v7a] StaticLibrary  : librlottie.a
+[armeabi-v7a] StaticLibrary  : libwebp.a
+[armeabi-v7a] StaticLibrary  : libcrypto_armeabi-v7a.a
+[armeabi-v7a] SharedLibrary  : libtmessages.30.so
